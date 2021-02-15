@@ -1,0 +1,2 @@
+La empresa TK-U necesita llevar un mejor control en las cotización de su empresa, por lo mismo se solicita crear un sistema en el cual se pueda ingresar n cantidad de cotizaciones. 
+Cada cotización deberá tener como obligatorio el nombre y la edad de la persona a asegurar, si el asegurado es mayor de edad el sistema cumplirá con unos calculos para determinar el costo del seguro dependiendo de validaciones como por ejemplo: Cantidad de hijos, Edad del conyúge, propiedades y salario.
